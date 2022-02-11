@@ -1,4 +1,4 @@
-# hw-top-tasks
+# hw-top-tasks  [![Build status](https://ci.appveyor.com/api/projects/status/jhstcvohe7vtyb92?svg=true)](https://ci.appveyor.com/project/DenViRus/ahj-top-tasks)
 
 #### Легенда
 
